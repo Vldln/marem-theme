@@ -1,0 +1,101 @@
+/*
+Theme Name: default
+Version: 1.0
+Author: Extremum
+Author URL: http://webkab.ru
+*/
+/* basics */
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  color: #262626;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+body * {
+  max-height: 9999999px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 30px;
+}
+h1 {
+  font-size: 16px;
+}
+h2 {
+  font-size: 15px;
+}
+h3 {
+  font-size: 14px;
+}
+p,
+ul,
+ol {
+  margin: 25px 0;
+}
+blockquote {
+  padding: 5px 0 5px 15px;
+  margin: 0 0 20px;
+  font-style: italic;
+  background: #fff;
+  border-left: 5px solid #9db668;
+}
+strong {
+  color: #111;
+}
+img {
+  border: 0;
+}
+a:link,
+a:visited {
+  text-decoration: underline;
+  color: #262626;
+}
+a:hover {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.ie {
+  display: none;
+}
+ul {
+  list-style-type: disc;
+  padding-left: 25px;
+}
+ol {
+  list-style-type: decimal;
+  padding-left: 25px;
+}
+ul li,
+ol li {
+  padding: 5px 0;
+}
+.alignleft {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.aligncenter {
+  margin: 0 auto;
+}
+.alignright {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
