@@ -11,20 +11,20 @@
     <meta property="og:title" content="Марем" />
     <meta property="og:description" content="Группа помощи женщинам Северного Кавказа" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="images/tild3537-6434-4138-b839-646639383963__-__resize__504x__site_-_cover_2.jpg" />
+    <meta property="og:image" content="<?php echo get_template_directory_uri(); ?>/images/tild3537-6434-4138-b839-646639383963__-__resize__504x__site_-_cover_2.jpg" />
     <link rel="canonical" href="https://maremgroup.com" />
     <!--/metatextblock-->
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-dns-prefetch-control" content="on" />
     <link rel="dns-prefetch" href="https://ws.tildacdn.com" />
-    <link rel="shortcut icon" href="images/tildafavicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/images/tildafavicon.ico" type="image/x-icon" />
     <!-- Assets -->
     <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script>
     <link rel="stylesheet" href="/css/grid.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="stylesheet" href="/css/main.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic" rel="stylesheet" />
-    <link rel="stylesheet" href="/cover.css" type="text/css" media="all" onerror="this.loaderr='y';" />
+    <link rel="stylesheet" href="/css/cover.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="stylesheet" href="/css/slds.css" type="text/css" media="print" onload="this.media='all';" onerror="this.loaderr='y';" />
     <noscript><link rel="stylesheet" href="/slds.css" type="text/css" media="all" /></noscript>
     <link rel="stylesheet" href="/css/forms.css" type="text/css" media="all" onerror="this.loaderr='y';" />
@@ -483,7 +483,7 @@
             <div class="t456__maincontainer" style="">
               <div class="t456__leftwrapper" style="min-width: 90px; width: 90px">
                 <div class="t456__logowrapper" style="display: block">
-                  <a href="/"><img class="t456__imglogo t456__imglogomobile" src="images/tild6138-6339-4038-a430-666535646533__marem_vector_logo_sm.svg" imgfield="img" style="max-width: 90px; width: 90px" alt="" /></a>
+                  <a href="/"><img class="t456__imglogo t456__imglogomobile" src="<?php echo get_template_directory_uri(); ?>/images/tild6138-6339-4038-a430-666535646533__marem_vector_logo_sm.svg" imgfield="img" style="max-width: 90px; width: 90px" alt="" /></a>
                 </div>
               </div>
               <nav class="t456__rightwrapper t456__menualign_right" style="">
@@ -494,7 +494,6 @@
                   <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/mults" data-menu-submenu-hook="" data-menu-item-number="4">Мульты</a></li>
                   <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/#help" data-menu-submenu-hook="" data-menu-item-number="5">Хочу помочь</a></li>
                   <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/media" data-menu-submenu-hook="" data-menu-item-number="6">СМИ о нас</a></li>
-                  <li class="t456__list_item" style="padding: 0 0 0 15px"><a class="t-menu__link-item" href="/#contacts" data-menu-submenu-hook="" data-menu-item-number="7">Контакты</a></li>
                 </ul>
               </nav>
             </div>

@@ -2,8 +2,8 @@
       <!--/header-->
       <div id="rec550430902" class="r t-rec t-rec_pt_0 t-screenmin-640px" style="padding-top: 0px; background-color: #f0f0f0" data-animationappear="off" data-record-type="213" data-screen-min="640px" data-bg-color="#f0f0f0">
         <!-- cover -->
-        <div class="t-cover" id="recorddiv550430902" bgimgfield="img" style="height: 80vh; background-image: url('images/tild3537-6434-4138-b839-646639383963__-__resize__20x__site_-_cover_2.jpg')">
-          <div class="t-cover__carrier" id="coverCarry550430902" data-content-cover-id="550430902" data-content-cover-bg="images/tild3537-6434-4138-b839-646639383963__site_-_cover_2.jpg" data-display-changed="true" data-content-cover-height="80vh" data-content-cover-parallax="" style="height: 80vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="images/tild3537-6434-4138-b839-646639383963__site_-_cover_2.jpg" /></div>
+        <div class="t-cover" id="recorddiv550430902" bgimgfield="img" style="height: 80vh; background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3537-6434-4138-b839-646639383963__-__resize__20x__site_-_cover_2.jpg')">
+          <div class="t-cover__carrier" id="coverCarry550430902" data-content-cover-id="550430902" data-content-cover-bg="<?php echo get_template_directory_uri(); ?>/images/tild3537-6434-4138-b839-646639383963__site_-_cover_2.jpg" data-display-changed="true" data-content-cover-height="80vh" data-content-cover-parallax="" style="height: 80vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3537-6434-4138-b839-646639383963__site_-_cover_2.jpg" /></div>
           <div class="t-cover__filter" style="height: 80vh; background-color: unset; opacity: 0"></div>
           <div class="t-container">
             <div class="t-col t-col_7">
@@ -50,8 +50,8 @@
       </div>
       <div id="rec553701810" class="r t-rec t-screenmax-640px" style="background-color: #f0f0f0" data-animationappear="off" data-record-type="213" data-screen-max="640px" data-bg-color="#f0f0f0">
         <!-- cover -->
-        <div class="t-cover" id="recorddiv553701810" bgimgfield="img" style="height: 80vh; background-image: url('images/tild3537-3965-4436-b030-383163313161__-__resize__20x__site_-_cover_3.jpg')">
-          <div class="t-cover__carrier" id="coverCarry553701810" data-content-cover-id="553701810" data-content-cover-bg="images/tild3537-3965-4436-b030-383163313161__site_-_cover_3.jpg" data-display-changed="true" data-content-cover-height="80vh" data-content-cover-parallax="" style="height: 80vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="images/tild3537-3965-4436-b030-383163313161__site_-_cover_3.jpg" /></div>
+        <div class="t-cover" id="recorddiv553701810" bgimgfield="img" style="height: 80vh; background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3537-3965-4436-b030-383163313161__-__resize__20x__site_-_cover_3.jpg')">
+          <div class="t-cover__carrier" id="coverCarry553701810" data-content-cover-id="553701810" data-content-cover-bg="<?php echo get_template_directory_uri(); ?>/images/tild3537-3965-4436-b030-383163313161__site_-_cover_3.jpg" data-display-changed="true" data-content-cover-height="80vh" data-content-cover-parallax="" style="height: 80vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3537-3965-4436-b030-383163313161__site_-_cover_3.jpg" /></div>
           <div class="t-cover__filter" style="height: 80vh; background-color: unset; opacity: 0"></div>
           <div class="t-container">
             <div class="t-col t-col_7">
@@ -98,8 +98,8 @@
       </div>
       <div id="rec553701985" class="r t-rec t-screenmax-640px" style="background-color: #f0f0f0" data-animationappear="off" data-record-type="213" data-screen-max="640px" data-bg-color="#f0f0f0">
         <!-- cover -->
-        <div class="t-cover" id="recorddiv553701985" bgimgfield="img" style="height: 70vh; background-image: url('images/tild3231-3262-4964-a430-343438306139__-__resize__20x__site_-_cover_4.jpg')">
-          <div class="t-cover__carrier" id="coverCarry553701985" data-content-cover-id="553701985" data-content-cover-bg="images/tild3231-3262-4964-a430-343438306139__site_-_cover_4.jpg" data-display-changed="true" data-content-cover-height="70vh" data-content-cover-parallax="" style="height: 70vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="images/tild3231-3262-4964-a430-343438306139__site_-_cover_4.jpg" /></div>
+        <div class="t-cover" id="recorddiv553701985" bgimgfield="img" style="height: 70vh; background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3231-3262-4964-a430-343438306139__-__resize__20x__site_-_cover_4.jpg')">
+          <div class="t-cover__carrier" id="coverCarry553701985" data-content-cover-id="553701985" data-content-cover-bg="<?php echo get_template_directory_uri(); ?>/images/tild3231-3262-4964-a430-343438306139__site_-_cover_4.jpg" data-display-changed="true" data-content-cover-height="70vh" data-content-cover-parallax="" style="height: 70vh; background-attachment: scroll" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3231-3262-4964-a430-343438306139__site_-_cover_4.jpg" /></div>
           <div class="t-cover__filter" style="height: 70vh; background-color: unset; opacity: 0"></div>
           <div class="t-container">
             <div class="t-col t-col_7">
@@ -157,7 +157,7 @@
                   <div class="t-slds__items-wrapper t-slds__witharrows t-slds_animated-none" id="carousel_550437425" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" aria-roledescription="carousel" aria-live="off">
                     <div class="t-slds__item t-slds__item_active" data-slide-index="1" role="group" aria-roledescription="slide" aria-hidden="false" aria-label="1 из 1">
                       <div class="t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="images/tild3437-6264-4263-b432-323763303934__-__empty__site_-_tree_-_3.jpg" data-original="images/tild3437-6264-4263-b432-323763303934__site_-_tree_-_3.jpg" alt="" /></div>
+                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="<?php echo get_template_directory_uri(); ?>/images/tild3437-6264-4263-b432-323763303934__-__empty__site_-_tree_-_3.jpg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3437-6264-4263-b432-323763303934__site_-_tree_-_3.jpg" alt="" /></div>
                       </div>
                     </div>
                   </div>
@@ -227,7 +227,7 @@
                   <div class="t-slds__items-wrapper t-slds__witharrows t-slds_animated-none" id="carousel_550440239" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" aria-roledescription="carousel" aria-live="off">
                     <div class="t-slds__item t-slds__item_active" data-slide-index="1" role="group" aria-roledescription="slide" aria-hidden="false" aria-label="1 из 1">
                       <div class="t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="images/tild3139-6536-4739-a265-393837356431__-__empty__handing_house.png" data-original="images/tild3139-6536-4739-a265-393837356431__handing_house.png" alt="" /></div>
+                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="<?php echo get_template_directory_uri(); ?>/images/tild3139-6536-4739-a265-393837356431__-__empty__handing_house.png" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3139-6536-4739-a265-393837356431__handing_house.png" alt="" /></div>
                       </div>
                     </div>
                   </div>
@@ -319,7 +319,7 @@
                   <div class="t-slds__items-wrapper t-slds__witharrows t-slds_animated-none" id="carousel_553705336" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" aria-roledescription="carousel" aria-live="off">
                     <div class="t-slds__item t-slds__item_active" data-slide-index="1" role="group" aria-roledescription="slide" aria-hidden="false" aria-label="1 из 1">
                       <div class="t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="images/tild3139-6536-4739-a265-393837356431__-__empty__handing_house.png" data-original="images/tild3139-6536-4739-a265-393837356431__handing_house.png" alt="" /></div>
+                        <div class="t-slds__wrapper t-align_center"><img class="t-slds__img t-img" src="<?php echo get_template_directory_uri(); ?>/images/tild3139-6536-4739-a265-393837356431__-__empty__handing_house.png" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3139-6536-4739-a265-393837356431__handing_house.png" alt="" /></div>
                       </div>
                     </div>
                   </div>
@@ -379,7 +379,7 @@
               <div class="t194__text t-text t-text_md" field="text">Мы назвали команду в память о Марем Алиевой. Потому что в её короткой жизненной истории воплотился весь ужас дискриминации женщины на Северном Кавказе.<br /><br />Марем Алиева — уроженка Ингушетии. В 1994 году, когда ей было всего 16, её с целью женитьбы похитил Мухарбек Евлоев. Ему тогда уже было 36 лет и у него было 6 детей от двух жён, которых он выгнал, запретив им общаться с детьми.<br /><br />За Марем некому было вступиться. Родители умерли. Самый близкий ей человек, сестра Елизавета Алиева, вот так рассказывала о её браке: “Женщину Евлоев за человека не считал, и всегда говорил, что Марем — его вещь”.<br /><br />Так же он относился и к детям. Его дочь от первого брака Хади погибла при странных обстоятельствах, якобы покончив с собой. Марем говорила сестре, что Хади жаловалась: отец ночью приходит и трогает её.<br /><br />Марем сбегала от издевательств, но всегда возвращалась — под давлением родных и из опасений за жизнь детей. В июле 2015 года она пришла к сестре в ссадинах и синяках и рассказала, что ночью муж наполовину обрил ей голову и грозился плеснуть в лицо кислотой. А чуть позже, чтобы наказать Марем, он отрезал ей фалангу большого пальца на левой руке.<br /><br />После этого Марем взяла детей и в очередной раз сбежала от мужа. Вместе с ней от отца убежала и дочь Евлоева от предыдущего брака, Марет. И тогда родня Евлоева развесила по всей республике листовки о розыске беглянки: в них говорилось, что Марем мошенница, колдунья и ограбила мужа.<br /><br />И снова её уговорили вернуться. Безопасность ей гарантировали старейшины села. Но, как оказалось, эти гарантии ничего не стоят.<br /><br />19 сентября 2015 года Марем позвонила сестре и сказала, что ночью муж стоял возле её кровати и обещал её убить. А на следующий день позвонила снова: "Лиза, я боюсь, к нам во двор пришли мужчины. Если мой номер через полчаса не будет работать, Лиза, спаси меня”.<br /><br />Когда Лиза примчалась к сестре, дома были только испуганные и заплаканные дети. Они рассказали, что когда вернулись из школы, увидели окровавленную веревку с петлей — "как та, на которую привязывают коров". Фен Марем тоже был весь в крови. А самой Марем нигде не было.<br /><br />Марем Алиева — ни живая, ни мёртвая — до сих пор не обнаружена. Уголовное дело о её бесследном исчезновении не возбуждено.</div>
             </div>
             <div class="t-col t-col_2 t-align_left" itemscope itemtype="http://schema.org/ImageObject">
-              <meta itemprop="image" content="images/tild3932-3835-4539-b662-633231633330__marem-aliyeva3.png" /> <img class="t194__img t-width t-width_2 t-img" src="images/tild3932-3835-4539-b662-633231633330__-__empty__marem-aliyeva3.png" data-original="images/tild3932-3835-4539-b662-633231633330__marem-aliyeva3.png" imgfield="img" data-tu-max-width="800" data-tu-max-height="800" alt="" /><br />
+              <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3932-3835-4539-b662-633231633330__marem-aliyeva3.png" /> <img class="t194__img t-width t-width_2 t-img" src="<?php echo get_template_directory_uri(); ?>/images/tild3932-3835-4539-b662-633231633330__-__empty__marem-aliyeva3.png" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3932-3835-4539-b662-633231633330__marem-aliyeva3.png" imgfield="img" data-tu-max-width="800" data-tu-max-height="800" alt="" /><br />
               <div class="t194__sectitle" field="imgtitle" itemprop="name">Марем Алиева</div>
               <div class="t194__secdescr" field="imgdescr" itemprop="description">Источник: <a href="https://zona.media/article/2017/08/16/evloev-free" target="_blank" rel="noreferrer noopener" style="color: rgb(137, 32, 35)">Медиазона ("Женщину он за человека не считал")</a></div>
             </div>
@@ -434,8 +434,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild6238-3436-4537-b539-376339386361___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild6238-3436-4537-b539-376339386361___-_.jpg" bgimgfield="li_img__1477995899606" style="background-image: url('images/tild6238-3436-4537-b539-376339386361__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361___-_.jpg" bgimgfield="li_img__1477995899606" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477995899606">Светлана Анохина</div>
@@ -446,8 +446,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" bgimgfield="li_img__1477996238469" style="background-image: url('images/tild3566-6161-4837-a263-373835343636__-__resizeb__20x___-__-_4.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" bgimgfield="li_img__1477996238469" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636__-__resizeb__20x___-__-_4.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996238469">Аида Мирмаксумова</div>
@@ -458,8 +458,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" bgimgfield="li_img__1477996247186" style="background-image: url('images/tild3137-6630-4232-a232-653439316537__-__resizeb__20x___-__-_6.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" bgimgfield="li_img__1477996247186" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537__-__resizeb__20x___-__-_6.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996247186">Майсарат</div>
@@ -470,8 +470,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" bgimgfield="li_img__1477996467033" style="background-image: url('images/tild3438-3062-4636-a433-376261623666__-__resizeb__20x___-__-_2.jpg')"></div>
+                  <meta itemprop="image" content="/home/s7ar11/test/wordpress-docker-compose/marem/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" bgimgfield="li_img__1477996467033" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666__-__resizeb__20x___-__-_2.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996467033">Фатима Абдулкарим</div>
@@ -482,8 +482,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild6631-6265-4432-b833-356530383435___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild6631-6265-4432-b833-356530383435___-_.jpg" bgimgfield="li_img__1675798589102" style="background-image: url('images/tild6631-6265-4432-b833-356530383435__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435___-_.jpg" bgimgfield="li_img__1675798589102" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675798589102">Саида Ахмедова</div>
@@ -494,8 +494,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3764-3238-4439-a231-646133646439___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3764-3238-4439-a231-646133646439___-_.jpg" bgimgfield="li_img__1675798620491" style="background-image: url('images/tild3764-3238-4439-a231-646133646439__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439___-_.jpg" bgimgfield="li_img__1675798620491" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675798620491">Адда Альд</div>
@@ -506,8 +506,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3461-3564-4332-b431-363933306530___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3461-3564-4332-b431-363933306530___-_.jpg" bgimgfield="li_img__1675800664335" style="background-image: url('images/tild3461-3564-4332-b431-363933306530__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="/home/s7ar11/test/wordpress-docker-compose/marem/tild3461-3564-4332-b431-363933306530___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530___-_.jpg" bgimgfield="li_img__1675800664335" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675800664335">Катя Нерозникова</div>
@@ -518,8 +518,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3130-3362-4130-a338-306166353334___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3130-3362-4130-a338-306166353334___-_.jpg" bgimgfield="li_img__1676956315197" style="background-image: url('images/tild3130-3362-4130-a338-306166353334__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334___-_.jpg" bgimgfield="li_img__1676956315197" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956315197">София Базанова</div>
@@ -530,8 +530,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild6262-6635-4733-b635-323438373732___-__3.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild6262-6635-4733-b635-323438373732___-__3.jpg" bgimgfield="li_img__1676956611000" style="background-image: url('images/tild6262-6635-4733-b635-323438373732__-__resizeb__20x___-__3.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732___-__3.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732___-__3.jpg" bgimgfield="li_img__1676956611000" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732__-__resizeb__20x___-__3.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956611000">Заира Ибрагимова</div>
@@ -542,8 +542,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3839-3438-4266-a533-653039323733___-__3.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3839-3438-4266-a533-653039323733___-__3.jpg" bgimgfield="li_img__1676955760363" style="background-image: url('images/tild3839-3438-4266-a533-653039323733__-__resizeb__20x___-__3.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733___-__3.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733___-__3.jpg" bgimgfield="li_img__1676955760363" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733__-__resizeb__20x___-__3.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676955760363">Кристина</div>
@@ -554,8 +554,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild3533-3365-4166-b939-323264366335___-__2.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild3533-3365-4166-b939-323264366335___-__2.jpg" bgimgfield="li_img__1676956839981" style="background-image: url('images/tild3533-3365-4166-b939-323264366335__-__resizeb__20x___-__2.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335___-__2.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335___-__2.jpg" bgimgfield="li_img__1676956839981" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335__-__resizeb__20x___-__2.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956839981">Сабина Борисова</div>
@@ -566,8 +566,8 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="images/tild6262-3135-4733-b762-373530366566___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="images/tild6262-3135-4733-b762-373530366566___-_.jpg" bgimgfield="li_img__1677576435172" style="background-image: url('images/tild6262-3135-4733-b762-373530366566__-__resizeb__20x___-_.jpg')"></div>
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566___-_.jpg" />
+                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566___-_.jpg" bgimgfield="li_img__1677576435172" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
                   <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1677576435172">Елена Анюхина</div>
@@ -1013,120 +1013,7 @@
           });
         </script>
       </div>
-      <div id="rec550450032" class="r t-rec t-rec_pt_105 t-rec_pb_0" style="padding-top: 105px; padding-bottom: 0px; background-color: #f0f0f0" data-record-type="43" data-bg-color="#f0f0f0">
-        <!-- T030 -->
-        <div class="t030">
-          <div class="t-container t-align_center">
-            <div class="t-col t-col_10 t-prefix_1"><div class="t030__title t-title t-title_xxs" field="title">Написать нам</div></div>
-          </div>
-        </div>
-      </div>
-      <div id="rec550448580" class="r t-rec t-rec_pt_60 t-rec_pb_120" style="padding-top: 60px; padding-bottom: 120px; background-color: #f0f0f0" data-animationappear="off" data-record-type="678" data-bg-color="#f0f0f0">
-        <!-- t678 -->
-        <div class="t678">
-          <div class="t-container">
-            <div class="t-col t-col_8 t-prefix_2">
-              <div>
-                <form id="form550448580" name="form550448580" role="form" action="" method="POST" data-formactiontype="2" data-inputbox=".t-input-group" class="t-form js-form-proccess t-form_inputs-total_3" data-success-callback="t678_onSuccess">
-                  <input type="hidden" name="formservices[]" value="d6a3b7de208cc3dfb0d099cefae92da7" class="js-formaction-services" />
-                  <div class="js-successbox t-form__successbox t-text t-text_md" aria-live="polite" style="display: none; color: #3bb010" data-success-message="Спасибо! Ваше сообщение отправлено."></div>
-                  <div class="t-form__inputsbox t-form__inputsbox_vertical-form t-form__inputsbox_inrow">
-                    <div class="t-input-group t-input-group_em" data-input-lid="1493283059688" data-field-type="em">
-                      <label for="input_1493283059688" class="t-input-title t-descr t-descr_md" id="field-title_1493283059688" data-redactor-toolbar="no" field="li_title__1493283059688" style="color: ">Почта</label>
-                      <div class="t-input-block">
-                        <input type="email" autocomplete="email" name="Email" id="input_1493283059688" class="t-input js-tilda-rule" value="" placeholder="Ваш e-mail" data-tilda-req="1" aria-required="true" data-tilda-rule="email" aria-describedby="error_1493283059688" style="color: #000000; border: 1px solid #000000" />
-                        <div class="t-input-error" aria-live="polite" id="error_1493283059688"></div>
-                      </div>
-                    </div>
-                    <div class="t-input-group t-input-group_nm" data-input-lid="1494858943227" data-field-type="nm">
-                      <label for="input_1494858943227" class="t-input-title t-descr t-descr_md" id="field-title_1494858943227" data-redactor-toolbar="no" field="li_title__1494858943227" style="color: ">Имя</label>
-                      <div class="t-input-block">
-                        <input type="text" autocomplete="name" name="Name" id="input_1494858943227" class="t-input js-tilda-rule" value="" placeholder="Ваше имя" data-tilda-req="1" aria-required="true" data-tilda-rule="name" aria-describedby="error_1494858943227" style="color: #000000; border: 1px solid #000000" />
-                        <div class="t-input-error" aria-live="polite" id="error_1494858943227"></div>
-                      </div>
-                    </div>
-                    <div class="t-input-group t-input-group_ta" data-input-lid="1495027254430" data-field-type="ta">
-                      <label for="input_1495027254430" class="t-input-title t-descr t-descr_md" id="field-title_1495027254430" data-redactor-toolbar="no" field="li_title__1495027254430" style="color: ">Ваше сообщение</label>
-                      <div class="t-input-block">
-                        <textarea name="Ваше сообщение" id="input_1495027254430" class="t-input js-tilda-rule" data-tilda-req="1" aria-required="true" aria-describedby="error_1495027254430" style="color: #000000; border: 1px solid #000000; height: 102px" rows="3"></textarea>
-                        <div class="t-input-error" aria-live="polite" id="error_1495027254430"></div>
-                      </div>
-                    </div>
-                    <div class="t-form__errorbox-middle">
-                      <!--noindex-->
-                      <div class="js-errorbox-all t-form__errorbox-wrapper" style="display: none" data-nosnippet tabindex="-1" aria-label="Ошибки при заполнении формы">
-                        <ul role="list" class="t-form__errorbox-text t-text t-text_md">
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-all"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-req"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-email"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-name"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-phone"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-minlength"></li>
-                          <li class="t-form__errorbox-item js-rule-error js-rule-error-string"></li>
-                        </ul>
-                      </div>
-                      <!--/noindex-->
-                    </div>
-                    <div class="t-form__submit"><button type="submit" class="t-submit" style="color: #000000; border: 2px solid #000000; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px" data-field="buttontitle" data-buttonfieldset="button">Отправить</button></div>
-                  </div>
-                  <div class="t-form__errorbox-bottom">
-                    <!--noindex-->
-                    <div class="js-errorbox-all t-form__errorbox-wrapper" style="display: none" data-nosnippet tabindex="-1" aria-label="Ошибки при заполнении формы">
-                      <ul role="list" class="t-form__errorbox-text t-text t-text_md">
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-all"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-req"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-email"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-name"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-phone"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-minlength"></li>
-                        <li class="t-form__errorbox-item js-rule-error js-rule-error-string"></li>
-                      </ul>
-                    </div>
-                    <!--/noindex-->
-                  </div>
-                </form>
-                <style>
-                  #rec550448580 input::-webkit-input-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 input::-moz-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 input:-moz-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 input:-ms-input-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 textarea::-webkit-input-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 textarea::-moz-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 textarea:-moz-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                  #rec550448580 textarea:-ms-input-placeholder {
-                    color: #000000;
-                    opacity: 0.5;
-                  }
-                </style>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div id="rec550456009" class="r t-rec" style="" data-record-type="215"><a name="contacts" style="font-size: 0"></a></div>
-      <div id="rec550456940" class="r t-rec" style="" data-animationappear="off" data-record-type="217">
-        <!-- t190 -->
+      <!-- t190 -->
         <div class="t190" style="position: fixed; z-index: 100000; bottom: 30px; left: 30px; min-height: 30px">
           <button type="button" class="t190__button t190__button_circle" aria-label="Вернуться к началу страницы">
             <svg role="presentation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
