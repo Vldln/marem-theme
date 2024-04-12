@@ -470,7 +470,7 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="/home/s7ar11/test/wordpress-docker-compose/marem/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" />
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" />
                   <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" bgimgfield="li_img__1477996467033" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666__-__resizeb__20x___-__-_2.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
@@ -506,7 +506,7 @@
             <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
               <div class="t524__itemwrapper t524__itemwrapper_4">
                 <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="/home/s7ar11/test/wordpress-docker-compose/marem/tild3461-3564-4332-b431-363933306530___-_.jpg" />
+                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530___-_.jpg" />
                   <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530___-_.jpg" bgimgfield="li_img__1675800664335" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530__-__resizeb__20x___-_.jpg')"></div>
                 </div>
                 <div class="t524__wrappercenter">
@@ -1013,7 +1013,9 @@
           });
         </script>
       </div>
-      <!-- t190 -->
+      <div id="rec550456009" class="r t-rec" style="" data-record-type="215"><a name="contacts" style="font-size: 0"></a></div>
+      <div id="rec550456940" class="r t-rec" style="" data-animationappear="off" data-record-type="217">
+        <!-- t190 -->
         <div class="t190" style="position: fixed; z-index: 100000; bottom: 30px; left: 30px; min-height: 30px">
           <button type="button" class="t190__button t190__button_circle" aria-label="Вернуться к началу страницы">
             <svg role="presentation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
@@ -1029,6 +1031,32 @@ M24,0.125C10.814,0.125,0.125,10.814,0.125,24S10.814,47.875,24,47.875S47.875,37.1
 c-0.383,0-0.766-0.146-1.058-0.437c-0.587-0.584-0.589-1.534-0.005-2.121l9.591-9.637c0.281-0.283,0.664-0.442,1.063-0.442
 c0,0,0.001,0,0.001,0c0.399,0,0.783,0.16,1.063,0.443l9.562,9.637c0.584,0.588,0.58,1.538-0.008,2.122
 c-0.589,0.583-1.538,0.58-2.121-0.008l-6.994-7.049L25.5,36.033z" />
+            </svg>
+          </button>
+        </div>
+        <script>
+          t_onReady(function () {
+            var rec = document.querySelector("#rec550456940");
+            if (!rec) return;
+            var wrapperBlock = rec.querySelector(".t190");
+            if (!wrapperBlock) return;
+            wrapperBlock.style.display = "none";
+            window.addEventListener(
+              "scroll",
+              t_throttle(function () {
+                if (window.pageYOffset > window.innerHeight) {
+                  if (wrapperBlock.style.display === "none") wrapperBlock.style.display = "block";
+                } else {
+                  if (wrapperBlock.style.display === "block") wrapperBlock.style.display = "none";
+                }
+              })
+            );
+            t_onFuncLoad("t190_init", function () {
+              t190_init(550456940);
+            });
+          });
+        </script>
+      </div>
             </svg>
           </button>
         </div>

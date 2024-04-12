@@ -20,14 +20,9 @@
     <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/images/tildafavicon.ico" type="image/x-icon" />
     <!-- Assets -->
     <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script>
-    <link rel="stylesheet" href="/css/grid.css" type="text/css" media="all" onerror="this.loaderr='y';" />
-    <link rel="stylesheet" href="/css/main.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic" rel="stylesheet" />
-    <link rel="stylesheet" href="/css/cover.css" type="text/css" media="all" onerror="this.loaderr='y';" />
-    <link rel="stylesheet" href="/css/slds.css" type="text/css" media="print" onload="this.media='all';" onerror="this.loaderr='y';" />
-    <noscript><link rel="stylesheet" href="/slds.css" type="text/css" media="all" /></noscript>
-    <link rel="stylesheet" href="/css/forms.css" type="text/css" media="all" onerror="this.loaderr='y';" />
+    <noscript><link rel="stylesheet" href="/css/slds.css" type="text/css" media="all" /></noscript>
     <script nomodule src="js/tilda-polyfill-1.0.min.js" charset="utf-8"></script>
     <script type="text/javascript">
       function t_onReady(func) {
