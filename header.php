@@ -23,7 +23,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic" rel="stylesheet" />
     <noscript><link rel="stylesheet" href="/css/slds.css" type="text/css" media="all" /></noscript>
-    <script nomodule src="js/tilda-polyfill-1.0.min.js" charset="utf-8"></script>
     <script type="text/javascript">
       function t_onReady(func) {
         if (document.readyState != "loading") {
@@ -47,18 +46,6 @@
         };
       }
     </script>
-    <script src="js/tilda-scripts-3.0.min.js" charset="utf-8" defer onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-blocks-page32934699.min.js?t=1710858714" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/lazyload-1.3.min.export.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-cover-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-slds-1.4.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/hammer.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-video-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-video-processor-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-forms-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-menu-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-skiplink-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
-    <script src="js/tilda-events-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
     </script>
@@ -481,16 +468,15 @@
                   <a href="/"><img class="t456__imglogo t456__imglogomobile" src="<?php echo get_template_directory_uri(); ?>/images/tild6138-6339-4038-a430-666535646533__marem_vector_logo_sm.svg" imgfield="img" style="max-width: 90px; width: 90px" alt="" /></a>
                 </div>
               </div>
-              <nav class="t456__rightwrapper t456__menualign_right" style="">
-                <ul role="list" class="t456__list t-menu__list">
-                  <li class="t456__list_item" style="padding: 0 15px 0 0"><a class="t-menu__link-item" href="/#about" data-menu-submenu-hook="" data-menu-item-number="1">О нас</a></li>
-                  <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/princips" data-menu-submenu-hook="" data-menu-item-number="2">Принципы</a></li>
-                  <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/reports" data-menu-submenu-hook="" data-menu-item-number="3">Отчёты</a></li>
-                  <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/mults" data-menu-submenu-hook="" data-menu-item-number="4">Мульты</a></li>
-                  <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/#help" data-menu-submenu-hook="" data-menu-item-number="5">Хочу помочь</a></li>
-                  <li class="t456__list_item" style="padding: 0 15px"><a class="t-menu__link-item" href="/media" data-menu-submenu-hook="" data-menu-item-number="6">СМИ о нас</a></li>
-                </ul>
-              </nav>
+              <?php
+wp_nav_menu(array(
+    'menu' => 'Main_menu', // Идентификатор вашего пользовательского меню
+    'container' => 'nav',
+    'container_class' => 't456__rightwrapper t456__menualign_right',
+    'menu_class' => 't456__list t-menu__list',
+));
+?>
+
             </div>
           </div>
           <style>

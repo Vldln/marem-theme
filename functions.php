@@ -79,4 +79,8 @@ function my_custom_scripts() {
 }
 add_action('wp_enqueue_scripts', 'my_custom_scripts');
 
+add_action('after_setup_theme', function() { register_nav_menus( 
+    [ 'header-menu'=>'Верхняя область',
+     ] );
+} );
 ?>
