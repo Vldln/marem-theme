@@ -431,150 +431,38 @@
         <!-- t524 -->
         <div class="t524">
           <ul role="list" class="t524__container t-list__container_inrow4 t-container">
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361___-_.jpg" bgimgfield="li_img__1477995899606" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6238-3436-4537-b539-376339386361__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477995899606">Светлана Анохина</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477995899606">Основательница, руководитель</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636___-__-_4.jpg" bgimgfield="li_img__1477996238469" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3566-6161-4837-a263-373835343636__-__resizeb__20x___-__-_4.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996238469">Аида Мирмаксумова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996238469">Активистка и красавчик</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537___-__-_6.jpg" bgimgfield="li_img__1477996247186" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3137-6630-4232-a232-653439316537__-__resizeb__20x___-__-_6.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996247186">Майсарат</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996247186">Кейс-менеджер</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666___-__-_2.jpg" bgimgfield="li_img__1477996467033" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3438-3062-4636-a433-376261623666__-__resizeb__20x___-__-_2.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477996467033">Фатима Абдулкарим</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996467033">Юристка</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435___-_.jpg" bgimgfield="li_img__1675798589102" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6631-6265-4432-b833-356530383435__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675798589102">Саида Ахмедова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1675798589102">Психолог</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439___-_.jpg" bgimgfield="li_img__1675798620491" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3764-3238-4439-a231-646133646439__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675798620491">Адда Альд</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1675798620491">SMM-менеджер, дизайнер</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530___-_.jpg" bgimgfield="li_img__1675800664335" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3461-3564-4332-b431-363933306530__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1675800664335">Катя Нерозникова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1675800664335">Волонтёрка</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334___-_.jpg" bgimgfield="li_img__1676956315197" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3130-3362-4130-a338-306166353334__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956315197">София Базанова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1676956315197">Психолог</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732___-__3.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732___-__3.jpg" bgimgfield="li_img__1676956611000" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6262-6635-4733-b635-323438373732__-__resizeb__20x___-__3.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956611000">Заира Ибрагимова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1676956611000">Юристка</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733___-__3.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733___-__3.jpg" bgimgfield="li_img__1676955760363" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3839-3438-4266-a533-653039323733__-__resizeb__20x___-__3.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676955760363">Кристина</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1676955760363">Психолог</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335___-__2.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335___-__2.jpg" bgimgfield="li_img__1676956839981" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild3533-3365-4166-b939-323264366335__-__resizeb__20x___-__2.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1676956839981">Сабина Борисова</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1676956839981">Юристка</div>
-                </div>
-              </div>
-            </li>
-            <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
-              <div class="t524__itemwrapper t524__itemwrapper_4">
-                <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
-                  <meta itemprop="image" content="<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566___-_.jpg" />
-                  <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566___-_.jpg" bgimgfield="li_img__1677576435172" style="background-image: url('<?php echo get_template_directory_uri(); ?>/images/tild6262-3135-4733-b762-373530366566__-__resizeb__20x___-_.jpg')"></div>
-                </div>
-                <div class="t524__wrappercenter">
-                  <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1677576435172">Елена Анюхина</div>
-                  <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1677576435172">Клинический психолог</div>
-                </div>
-              </div>
-            </li>
+          <?php
+$posts = get_posts(array(
+    'post_type' => 'members',
+    'posts_per_page' => -1,
+));
+
+foreach ($posts as $post) {
+    setup_postdata($post);
+
+    $title = get_the_title();
+    $content = strip_tags(get_the_content()); // Удаление HTML-тегов
+    $image_url = get_the_post_thumbnail_url();
+    ?>
+    <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
+        <div class="t524__itemwrapper t524__itemwrapper_4">
+            <div class="t524__imgwrapper t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="image" content="<?php echo esc_url($image_url); ?>" />
+                <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg" data-original="<?php echo esc_url($image_url); ?>" bgimgfield="li_img__1477995899606" style="background-image: url('<?php echo esc_url($image_url); ?>')"></div>
+            </div>
+            <div class="t524__wrappercenter">
+                <div class="t524__persname t-name t-name_lg t524__bottommargin_sm" field="li_persname__1477995899606"><?php echo esc_html($title); ?></div>
+                <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477995899606"><?php echo esc_html($content); ?></div>
+            </div>
+        </div>
+    </li>
+    <?php
+}
+
+wp_reset_postdata();
+?>
+
+
           </ul>
         </div>
         <style>
