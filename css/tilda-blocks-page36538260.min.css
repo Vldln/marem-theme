@@ -249,6 +249,7 @@ img:not([src]) {
   border: 0;
   padding: 0;
   background-color: #000;
+  height: 100%;
 }
 .t1061 .t-video-lazyload {
   background-color: #000;

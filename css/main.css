@@ -1316,12 +1316,10 @@ img:not([src]) {
     margin-bottom: 20px;
   }
 }
-
-iframe {
+#rec681877343 iframe {
   height: 30vh;
   width: 100%;
 }
-
 .t030__descr figcaption {
   padding-top: 15px;
   font-size: 18px;
