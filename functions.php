@@ -84,5 +84,9 @@ add_action('after_setup_theme', function() { register_nav_menus(
      ] );
 } );
 
+function custom_favicon() {
+    echo '<link rel="shortcut icon" type="image/x-icon" href="' . esc_url( get_template_directory_uri() . 'images/logo.png' ) . '" />';
+}
+add_action('wp_head', 'custom_favicon');
 
 ?>
