@@ -35,7 +35,7 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>fin
               </div>
             </div>
           </div>
@@ -426,10 +426,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div id="rec547728495" class="r t-rec t-rec_pt_60 t-rec_pb_150" style="padding-top: 60px; padding-bottom: 150px" data-animationappear="off" data-record-type="524">
-        <!-- t524 -->
-        <?php include 'includs/members.php'; ?>
       </div>
       <div id="rec550400464" class="r t-rec t-rec_pt_105 t-rec_pb_60" style="padding-top: 105px; padding-bottom: 60px; background-color: #f0f0f0" data-record-type="43" data-bg-color="#f0f0f0">
         <!-- T030 -->
