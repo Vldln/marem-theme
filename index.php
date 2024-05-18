@@ -415,18 +415,6 @@
           }
         </style>
       </div>
-      <div id="rec550443416" class="r t-rec" style="" data-record-type="215"><a name="team" style="font-size: 0"></a></div>
-      <div id="rec547728158" class="r t-rec t-rec_pt_105 t-rec_pb_60" style="padding-top: 105px; padding-bottom: 60px" data-record-type="43">
-        <!-- T030 -->
-        <div class="t030">
-          <div class="t-container t-align_center">
-            <div class="t-col t-col_10 t-prefix_1">
-              <div class="t030__title t-title t-title_xxs" field="title">Команда</div>
-              <div class="t030__descr t-descr t-descr_md" field="descr">Наша команда — это координаторы, группа волонтёров-юристов и психологов</div>
-            </div>
-          </div>
-        </div>
-      </div>
       <div id="rec550400464" class="r t-rec t-rec_pt_105 t-rec_pb_60" style="padding-top: 105px; padding-bottom: 60px; background-color: #f0f0f0" data-record-type="43" data-bg-color="#f0f0f0">
         <!-- T030 -->
         <div class="t030">
