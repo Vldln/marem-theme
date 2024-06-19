@@ -35,7 +35,7 @@
                       </div>
                     </div>
                   </div>
-                </div>fin
+                </div>
               </div>
             </div>
           </div>
