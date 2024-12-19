@@ -15,7 +15,7 @@
                       <div class="t189__descr t-descr t-descr_sm" field="descr"><span style="color: rgb(0, 0, 0)">Мы помогаем женщинам Северного Кавказа, пострадавшим от домашнего насилия. Если вам нужна помощь, напишите нам в Телеграм-бот:</span></div>
                       <div style="margin-top: 40px; margin-bottom: 20px">
                         <div class="t-btnwrapper">
-                          <a href="https://t.me/MaremGroupBot" target="_blank" class="t-btn t-btn_md" style="color: #000000; border: 2px solid #000000" data-buttonfieldset="button"
+                          <a href="https://t.me/MaremGroup_bot" target="_blank" class="t-btn t-btn_md" style="color: #000000; border: 2px solid #000000" data-buttonfieldset="button"
                             ><table role="presentation" style="width: 100%; height: 100%">
                               <tr>
                                 <td data-field="buttontitle">Написать нам</td>
@@ -240,7 +240,7 @@
             <div class="t-col t-col_5">
               <div class="t799__title t-heading t-heading_sm" field="title">Как мы помогаем?</div>
               <div class="t799__text t-text t-text_md" field="text">Мы помогаем женщинам юридически и психологически, а при необходимости эвакуируем в безопасное место.<br /><br />Вся юридическая помощь предоставляется бесплатно. С психологами бесплатны первые две консультации.<br /><br />Там, где не справляемся сами, обращаемся к партнёрским организациям.<br /><br /></div>
-              <a href="/docs" target="" class="t-btn t-btn_md t799__button" style="color: #000000; border: 2px solid #000000" data-buttonfieldset="button"
+              <a href="/princips/" target="" class="t-btn t-btn_md t799__button" style="color: #000000; border: 2px solid #000000" data-buttonfieldset="button"
                 ><table role="presentation" style="width: 100%; height: 100%">
                   <tr>
                     <td>Наши принципы</td>
